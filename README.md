@@ -1,2 +1,2 @@
 # simple_calculator
-A very simple calculator app
+A very simple calculator app designed to practice using Tkinkter. 
